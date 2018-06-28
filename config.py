@@ -1,5 +1,3 @@
-# These keys are not valid. Use your own API keys
-
 # Twitter API Keys
 consumer_key = "sNxmEC5Db9yTn3TkR35Oehqca"
 consumer_secret = "yyiLUtGlqJBOwjaKg4W9PndN4v1wJDOpwJNpQpU5q6GY1pq6Nh"
